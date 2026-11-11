@@ -11,6 +11,20 @@ This repository contains the official desktop installers and installation instru
 
 Intel Macs are no longer supported by new releases. To check your Mac, choose Apple menu → About This Mac and look for “Chip.” On the Releases page, use the installer under **Assets**; the automatic source archives only contain this README.
 
+## In-app updates (1.1.5 and later)
+
+Install 1.1.5 once if you are on 1.1.4 or earlier. Those older versions do not contain an updater.
+
+After that, use the small update icon on the sign-in screen or the app's top bar. The app checks for updates after startup; choose **Download update**, then **Restart and install** when your session is idle. Updates are delivered from this GitHub repository. You do not need to find a new cloud-drive link for each version.
+
+The Mac app uses a persistent project-owned signing certificate. This is not Apple Developer ID signing or notarization; first-launch security prompts may remain.
+
+中文：1.1.4 及更早版本需手动安装一次 1.1.5。之后点击登录页或顶部的更新图标，在应用内下载，暂停识别并等待答题结束后「重启并安装」。无需每次找网盘链接。
+
+日本語：1.1.4以前は、最初に1.1.5を手動でインストールしてください。以降はアプリの更新アイコンからダウンロードし、作業終了後に再起動してインストールできます。
+
+한국어: 1.1.4 이하에서는 1.1.5를 한 번 수동 설치하세요. 이후 앱의 업데이트 아이콘에서 다운로드하고, 작업이 끝난 후 다시 시작하여 설치할 수 있습니다.
+
 ## Install and get started
 
 1. **Windows:** Open the EXE and follow the installer. **Mac:** Open the DMG and drag 学面通 into Applications. The current Mac installer is not signed with an Apple Developer ID. If macOS blocks it, do not disable system protections; use the official website for help.
