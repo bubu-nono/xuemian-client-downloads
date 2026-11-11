@@ -30,3 +30,11 @@ Compare the SHA-256 hash with the `SHA256SUMS.txt` attached to the **same releas
 上方提供 Windows x64 和 Apple 芯片 Mac 安装包；新版不再支持 Intel Mac。Windows 运行 EXE；Mac 打开 DMG，将学面通拖入「应用程序」。首次打开后登录，设置语言和职位，再按提示检测系统声音。下载后可核对同一版本附带的 SHA-256。
 
 如需帮助，请访问[学面通官网](https://xuexi.inono.xyz/www/?lang=zh-CN)。反馈请提供系统、客户端版本和复现步骤，避免公开账号凭据、简历和面试内容。
+
+## 日本語
+
+Windows x64 は EXE、Apple シリコン搭載 Mac（macOS 13 以降）は DMG を上の表からダウンロードしてください。Mac は DMG を開いて学面通を「アプリケーション」へドラッグします。Intel Mac 用の新版はありません。アプリを起動後、ログインして言語と職種を選び、システム音声を確認してください。
+
+## 한국어
+
+위 표에서 Windows x64용 EXE 또는 Apple 칩 Mac(macOS 13 이상)용 DMG를 다운로드하세요. Mac에서는 DMG를 열고 학면통(学面通)을 ‘응용 프로그램’에 넣으세요. 새 버전은 Intel Mac을 지원하지 않습니다. 앱을 열어 로그인하고, 언어와 직무를 선택한 다음 시스템 오디오를 확인하세요.
